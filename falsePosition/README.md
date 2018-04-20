@@ -7,7 +7,9 @@ The purpose of this false position algorithm is to determine the root of a given
 ## Inputs:
 
 *func
+
 *xu
+
 *xl
 
 The user must input the function (func), by creating a func using @x, they want to evaluate along with their

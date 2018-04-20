@@ -19,7 +19,9 @@ axis.
 ## Outputs:
 
 *root 
+
 *error
+
 *iterations
 
 This algorithm will calculate the approximate root between those
